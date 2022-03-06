@@ -9,3 +9,9 @@
     c) quarterly 
     d) monthly 
     e) daily What do you notice?
+
+
+2. compound_prob_2.py
+
+    Karma borrowed Nu 20,000. He repaid the loan at the end of 4 years with a single payment of Nu 35,680. 
+    What interest rate was charged, if the compounding was semi-annual?
