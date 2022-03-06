@@ -1,5 +1,7 @@
 # PURCHASING DECISION
 
+
+
 1. commercial_example_1.py
 
    A restaurant meal usually costs Nu 80. A special rate of Nu 60 is offered for lunch  on Thursdays only. Calculate the percent discount.
