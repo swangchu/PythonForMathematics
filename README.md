@@ -12,4 +12,4 @@ Some of the mathematics problems are solved using Python programming.
   1. Purchasing Decisions
   2. Compound Interest
   3. Dividends and stocks
-  4. 
+  4. Linear function
