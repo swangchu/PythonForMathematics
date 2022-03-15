@@ -14,3 +14,4 @@ Some of the mathematics problems are solved using Python programming.
   3. Dividends and stocks
   4. Linear function
   5. Matrices
+  6. Data Analysis with Pandas
